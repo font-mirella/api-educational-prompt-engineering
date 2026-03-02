@@ -148,6 +148,13 @@ streamlit
 
 ---
 
+## 🧪 Testes
+```bash
+python tests/testes.py
+```
+
+---
+
 ## 📋 Variáveis de Ambiente
 
 | Variável         | Descrição                        |
