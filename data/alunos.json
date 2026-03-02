@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Miguel",
+        "idade": 10,
+        "nivel": "iniciante",
+        "estilo_aprendizado": "visual"
+    },
+    {
+        "nome": "Ana",
+        "idade": 16,
+        "nivel": "intermediário",
+        "estilo_aprendizado": "auditivo"
+    },
+    {
+        "nome": "Roberto",
+        "idade": 35,
+        "nivel": "avançado",
+        "estilo_aprendizado": "leitura-escrita"
+    },
+    {
+        "nome": "Severino",
+        "idade": 75,
+        "nivel": "iniciante",
+        "estilo_aprendizado": "cinestésico"
+    }
+]
