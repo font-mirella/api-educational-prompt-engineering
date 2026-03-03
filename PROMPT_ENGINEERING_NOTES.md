@@ -57,7 +57,7 @@ nível {nivel} de conhecimento sobre tudo, ou seja, não só sobre {conteudo} em
 
 A observação "não só sobre {conteudo} em si" é intencional: instrui o modelo a considerar o nível cognitivo **geral** do aluno ao escolher vocabulário e referências, não apenas o quanto ele sabe sobre o tema.
 
-Essas influenciam:
+Isso influenciam:
 
 * Complexidade conceitual
 * Profundidade da explicação
