@@ -82,7 +82,9 @@ python main.py
 
 ## 👤 Perfis de Alunos
 
-Os perfis ficam em `data/alunos.json`. Exemplo de estrutura:
+Os perfis ficam em `data/alunos.json`.
+
+Exemplo de estrutura:
 
 ```json
 [
@@ -151,6 +153,7 @@ streamlit
 ---
 
 ## 🧪 Testes
+Para testar a integridade dos arquivos, rode no terminal: 
 ```bash
 python tests/testes.py
 ```
